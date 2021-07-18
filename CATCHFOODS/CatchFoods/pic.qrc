@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aid.png</file>
+        <file>bg.png</file>
+        <file>box.png</file>
+        <file>food1.png</file>
+        <file>food9.png</file>
+        <file>food3.png</file>
+        <file>food4.png</file>
+        <file>food7.png</file>
+        <file>food6.png</file>
+        <file>food5.png</file>
+        <file>food8.png</file>
+        <file>food19.png</file>
+        <file>food10.png</file>
+        <file>mushroom.png</file>
+    </qresource>
+</RCC>
